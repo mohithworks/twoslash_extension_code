@@ -1,0 +1,19 @@
+//ai
+//email 
+//explain explain about: 
+//sheets give me the google sheets formula directly without any other text for: 
+//rewrite turn this sentence into clear and short sentence: 
+//spanish translate this to spanish: 
+//french translate this to french: 
+//hindi translate this to hindi: 
+//answer 
+//grammar fix the grammar mistakes: 
+//summarise summarise the following content: 
+//reply give a reply: 
+//pointers write about the following description in short pointers: 
+//codec write the programming code C language for: 
+//codepy write the programming code Python language for:
+//codej write the programming code Java language for:
+//codejs write the programming code JavaScript language for:
+//coderu write the programming code Ruby language for:
+//codecp write the programming code C++ language for:
