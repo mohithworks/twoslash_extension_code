@@ -1,8 +1,8 @@
 {
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Type '//ai' in any text field on your browser and unleash the power of ChatGPT AI.",
   "manifest_version": 3,
-  "name": "TwoSlash: Your ChatGPT AI Assistant",
+  "name": "TwoSlash: An OpenAI ChatGPT Chrome Extension",
   "background": {
     "service_worker": "background.js"
   },
